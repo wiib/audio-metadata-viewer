@@ -15,6 +15,7 @@
     "vite-plugin-solid": "^2.3.0"
   },
   "dependencies": {
+    "music-metadata-browser": "^2.5.9",
     "solid-js": "^1.5.1"
   }
 }
