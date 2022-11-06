@@ -22,7 +22,7 @@
 }
 
 .page-content > .page-content__item.covers-container {
-    max-width: 50%;
+    max-width: 40%;
 }
 
 .page-content > .page-content__item.covers-container > img {
@@ -35,5 +35,6 @@
 }
 
 .page-content > .page-content__item.tags-container {
+    max-width: 100%;
     flex-grow: 1;
 }
