@@ -1,9 +1,17 @@
 .Tag {
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
 
 .Tag:nth-child(odd) {
     background-color: rgba(0, 0, 0, 0.064);
+}
+
+.Tag__data {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+
+    white-space: pre-line;
+    text-align: center;
 }
