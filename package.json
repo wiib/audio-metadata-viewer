@@ -18,6 +18,7 @@
         "buffer": "^6.0.3",
         "music-metadata-browser": "^2.5.9",
         "process": "^0.11.10",
-        "solid-js": "^1.5.1"
+        "solid-js": "^1.5.1",
+        "util": "^0.12.5"
     }
 }
