@@ -38,3 +38,18 @@
     max-width: 100%;
     flex-grow: 1;
 }
+
+@media (max-width: 768px) {
+    .page-content {
+        flex-direction: column-reverse;
+    }
+
+    .page-content > .page-content__item.covers-container {
+        max-width: 100%;
+        flex-grow: 1;
+    }
+
+    .page-content > hr {
+        margin: 16px 0px;
+    }
+}
